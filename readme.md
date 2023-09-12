@@ -88,3 +88,33 @@ Arbeitspakete für 12.09.2023
 | Du drückst eine taste auf deinen Tastatur VS etwas ist passiert | Drück ein Taste | Etwas ist Passiert |
 | Programm in VS gestarted Ein name von unsere Klasse | X   | Ein zufälliger Name von unsere Klasse |
 
+
+Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geholfen. Bei dem Programm, das eine zufällige Aktion ausführt, wenn man eine Taste auf der Tastatur drückt, hatte ich ein paar Probleme und würde gerne einen weiteren Versuch starten. Auch beim Programm, das wie eine To-Do-Liste funktioniert, hatte ich Schwierigkeiten, da ich nicht wusste, wie man einen Punkt erstellt, den man mit einem Häkchen markieren kann, um ihn als erledigt zu kennzeichnen.
+
+Grob-Planung
+
+**Timotej Stojkovski**
+
+*12.09.2023*
+
+### Leit-Satz
+
+**Ich möchte lernen, wie man ein einfaches Spiel und eine Endlosschleife erstellt. Ich möchte auch wissen, wie man Knöpfe herstellt, wenn das überhaupt möglich ist.**
+
+### Arbeitspakete für 05.09.2023
+
+- Ein Programm, welches funktioniert als ein snake spiel
+  
+- Ein Programm, welches funktioniert als ein "The Magic 8 Ball"
+  
+- Ein Programm, das Ihnen sagt, wie viel Zeit bis zu Ihrem Geburtstag bleibt.
+  
+- Ein Programm, mit welches kannst du Krisenkreis spielen.
+  
+
+| Vorbereitung | Eingabe | Erwartete Ausgabe |
+| --- | --- | --- |
+| Es zeigt dir eine Schlange | Du druckt taste auf tastatur | Die Schlange bewegt sich |
+| Du sagst wie eine Frage | X   | Es gibt ein züfallig antwort |
+| Du schreibst heutiges Datum | Deine Geburtstag Datum | Etwas Die Anzahl der Tage von heute bis zu Ihrem Geburtstag |
+| Es zeigt dir ein Spielfeld | Krise | Kreis |
