@@ -112,4 +112,4 @@ Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geho
 
 ## Arbeits pakete für 19.09
 
-- [x] Ich versuche mit Winforms ein geburtstags rechner zu machen (Programmieren)
+- [ ] Ich versuche mit Winforms ein geburtstags rechner zu machen (Programmieren)
