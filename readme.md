@@ -91,15 +91,6 @@ Arbeitspakete für 12.09.2023
 
 Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geholfen. Bei dem Programm, das eine zufällige Aktion ausführt, wenn man eine Taste auf der Tastatur drückt, hatte ich ein paar Probleme und würde gerne einen weiteren Versuch starten. Auch beim Programm, das wie eine To-Do-Liste funktioniert, hatte ich Schwierigkeiten, da ich nicht wusste, wie man einen Punkt erstellt, den man mit einem Häkchen markieren kann, um ihn als erledigt zu kennzeichnen.
 
-Grob-Planung
-
-**Timotej Stojkovski**
-
-*12.09.2023*
-
-### Leit-Satz
-
-**Ich möchte lernen, wie man ein einfaches Spiel und eine Endlosschleife erstellt. Ich möchte auch wissen, wie man Knöpfe herstellt, wenn das überhaupt möglich ist.**
 
 ### Arbeitspakete für 05.09.2023
 
@@ -118,3 +109,7 @@ Grob-Planung
 | Du sagst wie eine Frage | X   | Es gibt ein züfallig antwort |
 | Du schreibst heutiges Datum | Deine Geburtstag Datum | Etwas Die Anzahl der Tage von heute bis zu Ihrem Geburtstag |
 | Es zeigt dir ein Spielfeld | Krise | Kreis |
+
+## Arbeits pakete für 19.09
+
+- [ ] Ich versuche mit Winforms ein geburtstags rechner zu machen (Programmieren)
