@@ -110,6 +110,8 @@ Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geho
 | Du schreibst heutiges Datum | Deine Geburtstag Datum | Etwas Die Anzahl der Tage von heute bis zu Ihrem Geburtstag |
 | Es zeigt dir ein Spielfeld | Krise | Kreis |
 
+Ich habe probiert snake spiel zu machen aber es zu schwierig war, also will ich es nach den Ferien machen, und nacher habe ich mit Windows Forms App ein bischen "gespielt" und dann die Geburtstagdatum Rechner gemacht.
+
 ## Arbeits pakete für 19.09
 
 - [ ] Ich versuche mit Winforms ein geburtstags rechner zu machen (Programmieren)
