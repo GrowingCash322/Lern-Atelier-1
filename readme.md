@@ -110,8 +110,21 @@ Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geho
 | Du schreibst heutiges Datum | Deine Geburtstag Datum | Etwas Die Anzahl der Tage von heute bis zu Ihrem Geburtstag |
 | Es zeigt dir ein Spielfeld | Krise | Kreis |
 
-Ich habe probiert snake spiel zu machen aber es zu schwierig war, also will ich es nach den Ferien machen, und nacher habe ich mit Windows Forms App ein bischen "gespielt" und dann die Geburtstagdatum Rechner gemacht.
+Ich habe probiert snake spiel zu machen aber es zu schwierig war, also will ich es nach den Ferien machen, und nacher habe ich mit Windows Forms App ein bischen "gespielt" und dann die Geburtstagdatum Rechner beginnt zu machen, dass ich noch nicht gemacht habe weil ich nicht die coden beim es veranden habe aber ich will es dann nextes mal machen.
 
 ## Arbeits pakete für 19.09
+
+- Ich mache die program von letztes mal fertig: Programm welches Ihnen sagt, wie viel Zeit bis zu Ihrem Geburtstag bleibt,in Winodows App Forms.
+- Ein Programm mit Windows App Form, welches schreibt schreibt dir ein züffaliges antwort auf die Frage, dass du in dein Kopf gestellt hast.
+- Ein Programm mit Windows App Form, mit welches kannst du Krise-Kreis spielen.
+- Ein Programm dass mit Windows App Form, welches funktioniert als ein Quiz.
+
+| Vorbereitung                       | Eingabe                         | Erwarete Ausgabe                                                   |
+| ---------------------------------- | ------------------------------- | ------------------------------------------------------------------ |
+| Es zeigt dir die Programm          | Du gibs dein Geburstagdatum ein | Zeit bis dein nexten Geburstag                                     |
+| Du stellst sich ein Frage ins Kopf | Du drückst ein Button           | Es zeigt dir ein züfaliges antwort                                 |
+| Es zeigt dier die Spielfield       | Du drückst au ein quadrat       | es zeigt ein Kreis wo du "gezeigt" hast und es zesichnet ein Krise |
+| Es stellt dir ein Frage            | Du wählst die antwort aus       | Es schreib dir ob es Falsch oder Korrekt ist                       |
+
 
 - [ ] Ich versuche mit Winforms ein geburtstags rechner zu machen (Programmieren)
