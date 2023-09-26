@@ -128,3 +128,12 @@ Ich habe probiert snake spiel zu machen aber es zu schwierig war, also will ich 
 
 
 - [ ] Ich versuche mit Winforms ein geburtstags rechner zu machen (Programmieren)
+
+## SCHLUSSVOLGERUNG
+Im Modul 319 habe ich echt viel gelernt und coole Sachen erlebt. Das Beste daran war, dass ich C#-Programmierung lernen konnte und meine eigenen C#-Apps erstellen konnte. Das hat echt Spaß gemacht, aber es gab auch Momente, wo ich echt ins Schwitzen gekommen bin.
+
+Aber du weißt ja, dass man am meisten lernt, wenn man sich herausfordert, und genau das habe ich getan. Anfangs war ich total überrascht, was man alles mit Programmieren machen kann, vor allem mit C#. Die Projekte, die wir in diesem Modul gemacht haben, haben mich richtig begeistert.
+
+Ich bin gespannt, in den kommenden Modulen auch andere Programmiersprachen auszuprobieren und mein Wissen noch weiter zu vertiefen. Trotzdem ist mein Lieblingsprojekt immer noch der "EinfachRechner". Mit ihm konnte ich praktische Dinge programmieren und schwierige Aufgaben auf einfache Weise lösen.
+
+Insgesamt war das Modul 319 für mich wie eine spannende Reise in die Welt des Programmierens, und ich freue mich schon auf die Herausforderungen und Möglichkeiten, die noch auf uns warten.
