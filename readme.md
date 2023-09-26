@@ -24,7 +24,7 @@ _Name:_ ***Stojkovski***
   
   * 29.08.2023 Lern-Periode 1 (319,431) PPL
 
-# Arbeitspakete für 29.09.2023
+# Arbeitspakete für 29.08.2023
 
 | Vorbereitung             | Eingabe | Erwartete ausgabe |
 |:------------------------:| ------- |:-----------------:|
@@ -92,7 +92,7 @@ Arbeitspakete für 12.09.2023
 Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geholfen. Bei dem Programm, das eine zufällige Aktion ausführt, wenn man eine Taste auf der Tastatur drückt, hatte ich ein paar Probleme und würde gerne einen weiteren Versuch starten. Auch beim Programm, das wie eine To-Do-Liste funktioniert, hatte ich Schwierigkeiten, da ich nicht wusste, wie man einen Punkt erstellt, den man mit einem Häkchen markieren kann, um ihn als erledigt zu kennzeichnen.
 
 
-### Arbeitspakete für 05.09.2023
+### Arbeitspakete für 19.09.2023
 
 - Ein Programm, welches funktioniert als ein snake spiel
   
@@ -112,7 +112,7 @@ Die Programme liefen gut. Ich habe mir mit Google und ein wenig mit ChatGPT geho
 
 Ich habe probiert snake spiel zu machen aber es zu schwierig war, also will ich es nach den Ferien machen, und nacher habe ich mit Windows Forms App ein bischen "gespielt" und dann die Geburtstagdatum Rechner beginnt zu machen, dass ich noch nicht gemacht habe weil ich nicht die coden beim es veranden habe aber ich will es dann nextes mal machen.
 
-## Arbeits pakete für 19.09
+## Arbeits pakete für 26.09.2023
 
 - Ich mache die program von letztes mal fertig: Programm welches Ihnen sagt, wie viel Zeit bis zu Ihrem Geburtstag bleibt,in Winodows App Forms.
 - Ein Programm mit Windows App Form, welches schreibt schreibt dir ein züffaliges antwort auf die Frage, dass du in dein Kopf gestellt hast.
