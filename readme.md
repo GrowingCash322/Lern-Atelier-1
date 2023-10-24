@@ -14,7 +14,7 @@ Wir möchten die Anwendung so gestalten, dass sie flexibel und anpassbar ist, um
 
 Mit diesem Projekt wollen wir nicht nur eine praktische Anwendung entwickeln, sondern auch unsere Fähigkeiten im Bereich der Softwareentwicklung weiter ausbauen. Wir freuen uns auf die Herausforderungen und Chancen, die dieses Vorhaben mit sich bringt, und hoffen, dass unsere Konsolen-Notizbuch App in Zukunft vielen Menschen bei der Organisation ihres digitalen Lebens helfen wird. (130W)
 
-## Arbeitspakete für 20.10.2023
+## Arbeitspakete für 24.10.2023
 
 - [ ] Vorbereiten
 
@@ -22,8 +22,9 @@ Mit diesem Projekt wollen wir nicht nur eine praktische Anwendung entwickeln, so
 | ------ | ------------ | ------- | ----------------- | -------- |
 | 1      |              |         |                   |          |
 
-Heute habe ich... (xx Wörter)
+Ich habe das Logo für die App mit viel Liebe zum Detail gestaltet und es spiegelt genau das wider, was wir in unserem Projekt vermitteln wollen. Darüber hinaus konnte ich einige spannende Features und Ideen zur App beitragen, die unser Produkt noch besser machen werden. Es erfüllt mich mit Stolz, einen solchen Beitrag leisten zu können, und ich freue mich darauf, gemeinsam mit dem Team weiterhin an diesem aufregenden Projekt zu arbeiten.(64W)
 
-## Arbeitspakete für 27.10.2023
+## Arbeitspakete für 31.10.2023
 
-
+ - [ ] Ich will mehr ideas für die features adden.
+ - [ ] Ich will die 
