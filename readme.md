@@ -27,4 +27,6 @@ Ich habe das Logo für die App mit viel Liebe zum Detail gestaltet und es spiege
 ## Arbeitspakete für 31.10.2023
 
  - [ ] Ich will mehr ideas für die features adden.
- - [ ] Ich will die 
+ - [ ] Richten Sie die zuletzt aufgerufene Datei und Farbe aus und zeigen Sie sie an
+ - [ ] Richten Sie die zuletzt aufgerufene Datei aus und zeigen Sie sie an
+ - [ ] Farben adden
