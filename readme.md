@@ -36,7 +36,7 @@ Heute habe ich für unsere Aplikation die autocorector und die extentions für d
 
  ## Arbeitspakete für 07.11.2023
 
-Ich muss die Text durchsucher fertig machen.
+Ich muss die Text durchsucher fertig machen und noch WordCount und inbuilt Translator machen. Dann mus ich noch bei layout helfen und Villeicht wann es genug zeit gibt dann will ich die layout noch verbessern.
 
 
 
