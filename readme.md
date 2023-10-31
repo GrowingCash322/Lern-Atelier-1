@@ -31,4 +31,13 @@ Ich habe das Logo für die App mit viel Liebe zum Detail gestaltet und es spiege
  - [ ] Richten Sie die zuletzt aufgerufene Datei aus und zeigen Sie sie an
  - [ ] Farben adden
 
-Heute habe ich für unsere Aplikation die autocorector und die 
+Heute habe ich für unsere Aplikation die autocorector und die extentions für die datai gemacht (also wann jemand etwas speichren muss es spechert automatisch immer wie ein .txt datei). Ich habe die arbeit sehr lustig gefunden ausser die text durchsucher
+ dass ich beginnen zu machen habe und ich will es nachstes mal höfflich machen.
+
+ ## Arbeitspakete für 07.11.2023
+
+Ich muss die Text durchsucher fertig machen.
+
+
+
+ 
