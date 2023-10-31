@@ -30,3 +30,5 @@ Ich habe das Logo für die App mit viel Liebe zum Detail gestaltet und es spiege
  - [ ] Richten Sie die zuletzt aufgerufene Datei und Farbe aus und zeigen Sie sie an
  - [ ] Richten Sie die zuletzt aufgerufene Datei aus und zeigen Sie sie an
  - [ ] Farben adden
+
+Heute habe ich für unsere Aplikation die autocorector und die 
