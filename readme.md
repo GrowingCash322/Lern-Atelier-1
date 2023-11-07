@@ -38,6 +38,14 @@ Heute habe ich für unsere Aplikation die autocorector und die extentions für d
 
 Ich muss die Text durchsucher fertig machen und noch WordCount und inbuilt Translator machen. Dann mus ich noch bei layout helfen und Villeicht wann es genug zeit gibt dann will ich die layout noch verbessern.
 
+- [ ] Ich will die Inbuilt translator machen
+- [ ] Ich will die Word count machen
+- [ ] Ich will die Text durchsucher machen
 
+Heute habe ich Text durchsucher und die Wort count gemacht. Es hat mir nicht so gut gegangen weil die beiden war sehr schwer zu machen und ich hatte ein paar mal so probmleme gehabt deshalkb habe ich mioh mit google und ein bischen chat gpt geholft.
 
- 
+## Arbeitspakete für 14.11.2023
+
+Ich mus die inbuilt trranslator machen.
+
+- [ ] Ich will die Inbuilt translator machen
