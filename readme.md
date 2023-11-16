@@ -46,6 +46,14 @@ Heute habe ich Text durchsucher und die Wort count gemacht. Es hat mir nicht so 
 
 ## Arbeitspakete für 14.11.2023
 
-Ich mus die inbuilt trranslator machen.
+Ich mus die inbuilt translator machen.
 
 - [ ] Ich will die Inbuilt translator machen
+
+## Arbeitspakete für 21.11.2023
+
+Ich will die app design machen und probieren die "logo" zu machen.
+
+- [ ] Ich will die app design machen
+- [ ] Ich will die app "logo" machen
+
