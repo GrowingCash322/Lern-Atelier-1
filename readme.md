@@ -57,3 +57,4 @@ Ich will die app design machen und probieren die "logo" zu machen.
 - [ ] Ich will die app design machen
 - [ ] Ich will die app "logo" machen
 
+## Arbeitspakete für 28.11.2023
