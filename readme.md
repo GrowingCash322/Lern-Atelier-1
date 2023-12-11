@@ -65,3 +65,18 @@ Ich will die app design machen.
 
 - [ ] Ich will die app design machen
 
+Icha habe das design fertig gemacht, es war nicht so schwer, aber hat viel zeit genomen.
+
+## Arbeitspakete für 05.12.2023
+
+Ich will ein neues logo machen und es in sie App einfügen.
+
+- [ ] Ich will die app Logo machen
+
+Ich habe das Logo mit eine website gemacht und es dann in Paint bearbeitet das es gut ausieht, dann habe ich es die app eingefügt.
+
+## Arbeitspakete für 12.12.2023
+
+Wir mussen noch die letzten detailen machen und die App ausprobieren.
+
+- [ ] Die App ausprobieren
