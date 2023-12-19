@@ -80,3 +80,11 @@ Ich habe das Logo mit eine website gemacht und es dann in Paint bearbeitet das e
 Wir mussen noch die letzten detailen machen und die App ausprobieren.
 
 - [ ] Die App ausprobieren
+
+Wir haben dass Appp ausprobiert und die detailen korigiert oder gemacht.
+
+## Arbeitspakete für 19.12.2023
+
+Ich will die App noch anschauen und ausprobieren und villeicht wann wir noch fehler haben oder etwas verbessern können mache ich das.
+
+- [ ] Die App ausprobieren
