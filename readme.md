@@ -1,6 +1,6 @@
 # Lern-Periode 3
 
-Max Muster
+Timotej Stojkovski
 
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
@@ -12,7 +12,8 @@ Max Muster
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍ 
+Heute habe ich nach Ideen für mein Projekt gesucht und mich schließlich entschieden, ein Tetris-Spiel mit einer WPF-Aplikation zu entwickeln. Anschließend habe ich auf YouTube und Google recherchiert, wie man es umsetzen kann, und mich darauf vorbereitet, damit ich beim nächsten Mal direkt mit der Umsetzung beginnen kann. Ich freue mich darauf, mein Wissen zu vertiefen und mein Projekt in die Realität umzusetzen.
 
 ## 16.1 und 23.1.2024
 
