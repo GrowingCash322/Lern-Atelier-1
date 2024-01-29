@@ -8,22 +8,20 @@ Timotej Stojkovski
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? - Meine Noten befinden sich größtenteils im Bereich 4. Besonders gut abgeschnitten habe ich in Modulen, die mir gefallen haben, vor allem in Modul 117, das ich als besonders wichtig und nützlich empfinde. Leider habe ich im Modul 431 ungenügend abgeschnitten.
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben? - Am Ende von LP2 hatte ich mir vorgenommen, mein Wissen zu vertiefen und meine Fähigkeiten in der Computerarbeit zu verbessern. Mein VBV (Verbindliches Berufsvorbereitendes Vorhaben) war es, mich insbesondere im Umgang mit ChatGPT weiterzuentwickeln. Während des gesamten Moduls habe ich diese Plattform genutzt, um Unklarheiten zu beseitigen und Aufgaben zu lösen, die mir Schwierigkeiten bereitet haben.
-3. Was wäre ein geeignetes Projekt würd diese LP3? - Ein geeignetes Projekt für LP3 könnte ein Spiel sein, beispielsweise das Snake-Spiel oder ein Tetris-Spiel. Ich denke, dies würde eine interessante und anspruchsvolle Möglichkeit bieten, die erworbenen Kenntnisse und Fähigkeiten in der Programmierung umzusetzen.
+3. Was wäre ein geeignetes Projekt würd diese LP3? - Ein geeignetes Projekt für LP3 könnte ein Spiel sein, beispielsweise das Snake-Spiel oder ein Tic tac toe-Spiel. Ich denke, dies würde eine interessante und anspruchsvolle Möglichkeit bieten, die erworbenen Kenntnisse und Fähigkeiten in der Programmierung umzusetzen.
 
 ## 9.1.2024
 
 ✍ 
-Heute habe ich nach Ideen für mein Projekt gesucht und mich schließlich entschieden, ein Tetris-Spiel mit einer WPF-Aplikation zu entwickeln. Anschließend habe ich auf YouTube und Google recherchiert, wie man es umsetzen kann, und mich darauf vorbereitet, damit ich beim nächsten Mal direkt mit der Umsetzung beginnen kann. Ich freue mich darauf, mein Wissen zu vertiefen und mein Projekt in die Realität umzusetzen.
+Heute habe ich nach Ideen für mein Projekt gesucht und mich schließlich entschieden, ein Tic tac toe zu entwickeln. Anschließend habe ich auf YouTube und Google recherchiert, wie man es umsetzen kann, und mich darauf vorbereitet, damit ich beim nächsten Mal direkt mit der Umsetzung beginnen kann. Ich freue mich darauf, mein Wissen zu vertiefen und mein Projekt in die Realität umzusetzen.
 
 ## 16.1 und 23.1.2024
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Das spiel planen
+- [ ] Code beginnen
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
+|                |                      |                |                |          |
 | ...            |                      |                |                |          |
 | 4              |                      |                |                |          |
 
