@@ -19,39 +19,25 @@ Heute habe ich nach Ideen für mein Projekt gesucht und mich schließlich entsch
 - [ ] Das spiel planen
 - [ ] Code beginnen
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| -------------- | -------------------- | -------------- | -------------- | -------- |
-|                |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute habe ich intensiv daran gearbeitet, den Code für mein Projekt zu planen, und ich bin bereit, mit dem Schreiben zu beginnen. Alle notwendigen Ressourcen und Werkzeuge sind vorbereitet, was mir Zuversicht gibt. Ich habe sicherstellen können, dass ich alles habe, was benötigt wird, um reibungslos durch den Entwicklungsprozess zu navigieren. Nun bin ich gespannt und voller Vorfreude darauf, meine vorbereiteten Ressourcen optimal zu nutzen.
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+☝️ Ich halte das Projekt für äußerst sinnvoll und bin überzeugt, dass es mir viele neue Erkenntnisse vermitteln wird.
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
+- [ ] Am die Code weiter arbeiten
 
-- [ ] Achtes AP
+✍️ Heute habe ich intensiv am Code gearbeitet und befinde mich nun in den letzten Zügen des Projekts. Obwohl ich auf einige Herausforderungen gestoßen bin, konnte ich sie erfolgreich überwinden. Dank der Unterstützung von ChatGPT und Internetrecherche konnte ich Lösungen für meine Probleme finden. Dieser Austausch von Informationen hat meinen Fortschritt erheblich beschleunigt, und ich bin zuversichtlich, dass ich das Projekt bald erfolgreich abschließen werde.
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
-
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+☝️ Nach intensiver Arbeit am Code bin ich nun fast fertig und fühle mich sehr zufrieden. Trotz einiger Herausforderungen war es eine lehrreiche Erfahrung. Durch die Unterstützung von ChatGPT und Internetrecherche konnte ich die auftretenden Probleme erfolgreich bewältigen. Dieser Prozess hat mein Verständnis erweitert, und ich bin zuversichtlich, dass ich beim nächsten Mal noch effizienter und erfolgreicher sein werde. Die gewonnenen Erkenntnisse machen diese Erfahrung besonders wertvoll, und ich freue mich auf weitere Fortschritte.
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute habe ich die letzten Feinschliffe an meinem Code vorgenommen. Nachdem ich die Kommentare hinzugefügt habe, habe ich umfassende Tests durchgeführt, um sicherzustellen, dass alles reibungslos funktioniert und keine Fehler vorliegen. Die gründliche Überprüfung gibt mir die Gewissheit, dass das Projekt nun in einem stabilen und zuverlässigen Zustand ist, bereit für den nächsten Schritt oder die finale Implementierung.
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In der Lern-Periode 3 (LP3) habe ich meine Noten evaluiert und erkannt, dass ich besonders in Modul 117 erfolgreich war. Mein Ziel war es, mich im Umgang mit ChatGPT weiterzuentwickeln, was ich durch intensive Nutzung erreicht habe. Das gewählte Projekt, die Entwicklung eines Tic Tac Toe-Spiels, stellte eine anspruchsvolle Herausforderung dar. Die Planung und vorbereitenden Recherchen verliefen erfolgreich. Während der Code-Implementierung stieß ich auf Herausforderungen, die ich dank der Unterstützung von ChatGPT und Internetrecherche erfolgreich überwinden konnte. Dieser Austausch erweiterte mein Verständnis und ermöglichte eine zufriedenstellende Fertigstellung des Projekts. Die gesamte Erfahrung hat mein Wissen vertieft und meine Fähigkeiten in der Programmierung gestärkt, was mich optimistisch für zukünftige Projekte stimmt.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Die vergleichende Betrachtung der 9-wöchigen LP2 und der 4-wöchigen LP3 ermöglicht eine interessante Reflexion. Obwohl LP2 mehr Zeit für tiefgehende Projekte bot, empfand ich LP3 als intensiver und fokussierter. Die kompaktere Zeitrahmen erforderten effizientere Planung und Durchführung, was mir half, mich auf das Wesentliche zu konzentrieren. In Zukunft plane ich, diese Effizienz in meine Projektstrategien einzubeziehen und die Vorzüge beider Ansätze zu nutzen, um meine Zeit optimal zu nutzen und gleichzeitig hochwertige Ergebnisse zu erzielen. Die kürzeren Zeiträume fördern eine zielgerichtete Herangehensweise, während die längeren Perioden Raum für tiefgreifendere Forschung und Entwicklung bieten.
